@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Belajar Android</string>
+    <string name="nama_user" translatable="false">bianha</string>
 </resources>
